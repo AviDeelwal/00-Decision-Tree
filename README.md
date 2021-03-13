@@ -1,2 +1,2 @@
-# 00-Decision-Tree
-contain the fundamentals of decision tree
+# data-science project
+contain the fundamentals of all regressors
